@@ -2,7 +2,7 @@
 
 Welcome to my web programming assignments 4 repository!
 
-![Banner](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)# PHP Form Submission with POST Method
+![Banner](https://c.tenor.com/bCfpwMjfAi0AAAAC/tenor.gif)
 
 ## Personal Information
 - **Name**: Wilson Angelie Tan
